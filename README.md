@@ -5,12 +5,4 @@
 
 Defined relevant hiring, promotion, performance, and turnover KPIs, and created a visualization. Here are some of the measures,
 
-Total No. of men
-Total No. of Women
-% employees promoted (FY21)
-% of women promoted
-% of hires men
-% of hires women
-% turnover 
-Average performance rating: men
-Average Performance rating: women
+Total No. of men, Total No. of Women, % employees promoted (FY21), % of women promoted, % of hires men, % of hires women, % turnover , Average performance rating: men, Average Performance rating: women
